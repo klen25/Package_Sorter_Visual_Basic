@@ -1,0 +1,148 @@
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+C:\Users\Klentang\AppData\Local\Temporary Projects\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.CodeAnalysisLog.xml
+D:\Proyek-proyek\Proyek TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.lastcodeanalysissucceeded
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.manifest
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.application
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe.manifest
+G:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.application
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.manifest
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.application
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe.manifest
+H:\TA Beny\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.application
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.manifest
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.application
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe.manifest
+H:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.application
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.manifest
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.application
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe.manifest
+G:\TA Beny Fix\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.application
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.manifest
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.application
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe.manifest
+G:\TA Beny Fix\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.application
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.manifest
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.application
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe.manifest
+D:\File Pribadi\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.application
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.manifest
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.application
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe.manifest
+G:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.application
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.config
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.xml
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.pdb
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe.manifest
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.application
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.exe
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.pdb
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\bin\Debug\Sorting_RFID.xml
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Main.resources
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Form_Login.resources
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.Resources.resources
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.vbproj.GenerateResource.Cache
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.exe.manifest
+D:\TA BENY REVISI\Interface VS2013\Sorting_RFID\Sorting_RFID\obj\Debug\Sorting_RFID.application

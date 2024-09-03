@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Sorting_RFID.exe" version="1.0.0.2" publicKeyToken="890ab6f4aef4607b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Sorting_RFID" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Sorting_RFID.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sorting_RFID.exe" size="1041368">
+      <assemblyIdentity name="Sorting_RFID" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uaSDlaRltuhudvw4tyjcd9htiu3RfK1gBBa4EbOitOY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Sorting_RFID.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Klentang-PC\Klentang" issuerKeyHash="3d46c8856d5dbe9fd80e3f98fe02de82369fc5e5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>QIlNTrhp0BIGyNIGN45iPwZCXGkp6NTNGT3vKKKN4AE=</DigestValue></Reference></SignedInfo><SignatureValue>FsmXh/MsxMjwIO0jOALqis773Yfqeg9Z7LzV1Y9YVTNXmEn7hIEoGKtYJ3j61l379uwAWJo36IW3eIy1f9xlI0OdbEt2dzOtwbT8NDYjbjpgFUphJurSN64tOC/FiTVly17oT8qIegpH4HS+QYOQRibXh7Y161mNrE5xSZVcqOk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oDnprioKs+UTgq+o4ajC1eb3iZno8XU1IHcBQTwslJZClmbatCuz/vytydHA5I3NIGwJk5LVVRw+ApPQ8Lqo0C4zlY31j4Hbb+9C0pJvNJBeEzctGq8PK0U+bEZLmQJN8AtD7Ka8c7RYWrG0Iooj86Yc8viHGZjze9nCxduMYBc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="01e08da228ef3d19cdd4e829695c42063f628e3706d2c80612d069b84e4d8940" Description="" Url=""><as:assemblyIdentity name="Sorting_RFID.exe" version="1.0.0.2" publicKeyToken="890ab6f4aef4607b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Klentang-PC\Klentang</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CqLjgAF+CuPQ/iBhvpc8s7/gxY7SubZQ7V2HKzxfYOo=</DigestValue></Reference></SignedInfo><SignatureValue>AhSxCIbEl9BmdmzFd3yLm1EIe7tSKDBfNu9YRjhiNo3qaZV1l7CAha9qam9KqMmIjKl6eQ7mxq2vprH7N7vs5c8pA5E0ZLqb6qwe3rMiBjJYd4Ry3GOF4YFi5l5a9/ifaI0BQ3U8GfdEHRXxap9vKjR6m97dq8RsF2EaeXGMkE4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oDnprioKs+UTgq+o4ajC1eb3iZno8XU1IHcBQTwslJZClmbatCuz/vytydHA5I3NIGwJk5LVVRw+ApPQ8Lqo0C4zlY31j4Hbb+9C0pJvNJBeEzctGq8PK0U+bEZLmQJN8AtD7Ka8c7RYWrG0Iooj86Yc8viHGZjze9nCxduMYBc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQITJwQhirb61IWYdRS5iiWTANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigASwBsAGUAbgB0AGEAbgBnAC0AUABDAFwASwBsAGUAbgB0AGEAbgBnMB4XDTE3MTAyOTE0MTg1M1oXDTE4MTAyOTIwMTg1M1owMzExMC8GA1UEAx4oAEsAbABlAG4AdABhAG4AZwAtAFAAQwBcAEsAbABlAG4AdABhAG4AZzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoDnprioKs+UTgq+o4ajC1eb3iZno8XU1IHcBQTwslJZClmbatCuz/vytydHA5I3NIGwJk5LVVRw+ApPQ8Lqo0C4zlY31j4Hbb+9C0pJvNJBeEzctGq8PK0U+bEZLmQJN8AtD7Ka8c7RYWrG0Iooj86Yc8viHGZjze9nCxduMYBcCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBCqklcAbfX4EdFYBu7JN3zexm75TGN+Sz+nUwGkPPDdY4ByoMPY5KMp5CZ9R4K6q1Q0kH5bq1LYkXornih4s6j6tVYllknTu/fyWa8NNSMH/R9CmffF5cijwViApQPXxIYescFI77NnlG41Ez4t7DDCyLhIj5ZMUJhQQui0Zazxg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
